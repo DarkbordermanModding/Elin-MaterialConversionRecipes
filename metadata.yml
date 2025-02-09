@@ -1,0 +1,21 @@
+﻿github:
+  description: "Add material conversion recipes in Elin."
+  enable_discussions: false
+  enable_issues: false
+  enable_projects: false
+  enable_wiki: false
+  homepage: https://github.com/DarkbordermanModding/Elin-MaterialConversionRecipes
+  template: false
+  topics:
+    - mod
+    - elin
+    - elin-mod
+workshop:
+  app_id: 2135150
+  publishedfield_id: 3424780105
+  title: "Material Conversion Recipes"
+  description: "Add material conversion recipes in Elin."
+  visibility: 2
+  preview_path: preview.png
+  content_folder: "./"
+  tags: [Cheat, Item]

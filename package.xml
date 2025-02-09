@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Material Conversion Recipes</title>
+  <id>dbm_material_conversion_recipes</id>
+  <author>Darkborderman</author>
+  <loadPriority>100</loadPriority>
+  <description>Add recipes that focused on material conversions.</description>
+  <tags>Cheat,Item</tags>
+  <version>0.23.46</version>
+</Meta>
